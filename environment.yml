@@ -1,0 +1,15 @@
+name: class-share
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - networkx
+  - scipy
+  - scikit-learn
+  - pygraphviz
+  - seaborn
+  - jupyter_contrib_nbextensions
+  - jupyterlab-link-share

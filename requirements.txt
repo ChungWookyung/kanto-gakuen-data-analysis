@@ -1,0 +1,3 @@
+jupyterlab==3.2.3
+jupyterlab-link-share
+jupyter_contrib_nbextensions
